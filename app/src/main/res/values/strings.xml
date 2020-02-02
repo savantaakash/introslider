@@ -1,0 +1,24 @@
+<resources>
+	<string name="app_name">Aboutpage</string>
+	
+	<!-- Slide 1 Title & Description-->
+	<string name="slide_1_title">Home</string>
+	<string name="slide_1_desc">It will get best facillaities and Equiped Facillities</string>
+	
+	<!-- Slide 2 Title and Description-->
+	<string name="slide_2_title">Accademics</string>
+	<string name="slide_2_desc">Number of faculties with well qualified and research and Technical Faculties.</string>
+	
+	<!-- Slide 3 Title and Description-->
+	<string name="slide_3_title">Laboratories</string>
+	<string name="slide_3_desc">Lot of well equiped lab with high internet facility.</string>
+	
+	<!-- Slide 4 Title and Description-->
+	<string name="slide_4_title">Placements And Training</string>
+	<string name="slide_4_desc">Placements are well company and well skilled are been placed with Top based company</string>
+	
+	<string name="my_preferences">mitmysore.in</string>
+	<string name="my_preferences_key">Google.com</string>
+
+
+</resources>
